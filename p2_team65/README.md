@@ -1,3 +1,7 @@
 # Buses Are Us!
 
-Term project for CPSC 210 UBC Summer 2018
+Course: CPSC 210 Software Construction 
+Institution: The University of British Columbia (UBC) 
+Term: Summer 2018 
+
+
